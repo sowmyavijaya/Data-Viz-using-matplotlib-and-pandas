@@ -1,5 +1,5 @@
 # Data-Viz-using-matplotlib-and-pandas
-Visualizing Earnings based on college majors
+Project 1: Visualizing Earnings based on college majors
 
 The project aims at visualising and understanding the patterns of a dataset using matplotlib and primarily pandas libraries.
 The dataset is on the job outcomes of students who graduated from college between 2010 and 2012.
@@ -26,3 +26,12 @@ Using the visualisations we will be able to answer the following questions:
 * Do students in more popular majors make more money? - Using scatter plots
 * How many majors are predominantly male? Predominantly female? - Using histograms
 * Which category of majors have the most students? - Using bar plots
+
+Project 2: Visualising gender gaps across college degree categories
+
+Here we are working on a dataset which contains data about the percentage of bachelor's degree awarded to women
+in different categories, from 1970 to 2012. The dataset is read into a pandas dataframe as women_degrees.
+The work focuses mostly on customising colors, line widths, layout and annotations for improving data-ink ratio and to make viewers to understand the data more effectively.
+
+
+
